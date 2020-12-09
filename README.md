@@ -1,1 +1,1 @@
-# backround-color
+# bg-color
