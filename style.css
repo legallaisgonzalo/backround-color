@@ -1,0 +1,22 @@
+body{
+    padding: 40px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+span{
+    color: yellow;
+    text-shadow: black 1px 1px 1px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
